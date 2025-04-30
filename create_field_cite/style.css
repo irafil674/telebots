@@ -1,0 +1,21 @@
+
+div{
+    font-family: normal;
+    font-size: 20px;
+    color: black;
+}
+div.field button{
+    background: white;
+    width: 24px;
+    height: 24px;
+}
+div.condition{
+    font-family: cursive;
+    font-size: 20px;
+}
+div button{
+    background: white;
+}
+html{
+    background: white;;
+}
