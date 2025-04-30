@@ -6,3 +6,6 @@
 - курс на степике по сазданию тг-бота и минимальная обработка (https://stepik.org/211057)
 - взаимодействие в web-штуками (https://habr.com/ru/articles/666278/)
 - перенос всего на github (https://vc.ru/id2092914/776781-urok-o13-vygruzka-proekta-na-server)
+
+и если вдруг:
+- сайтик для ввода поля https://github.com/irafil674/create_field_sea_war.github.io
